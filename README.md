@@ -23,3 +23,8 @@ The chess board is displayed like follows:
 
 - From top to bottom from 1 to 8
 - From left to right from 'a' to 'b'
+
+There is two ways to end a game:
+
+- Chess mate
+- Each chess piece have a certain amount of points assigned. You have the option of ending the game after each turn. The color with higher amount of points wins.
