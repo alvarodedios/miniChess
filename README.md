@@ -34,5 +34,5 @@ The game will tell you if your move was valid based on the piece you want to mov
 
 There is two ways to end a game:
 
-- Chess mate
+- Checkemate
 - Each chess piece have a certain amount of points assigned. You have the option of ending the game after each turn. The color with higher amount of points wins.
