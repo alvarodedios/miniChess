@@ -24,6 +24,14 @@ The chess board is displayed like follows:
 - From top to bottom from 1 to 8
 - From left to right from 'a' to 'b'
 
+Each move has to have the following format:
+
+``bash
+#Example:
+a4c7
+```
+The game will tell you if your move was valid based on the piece you want to move, the square you are in and your position in relation to to your oponent.
+
 There is two ways to end a game:
 
 - Chess mate
