@@ -21,8 +21,4 @@ If you are working in Windows you have to define the enviroment variables to map
 
 The chess board is displayed like follows:
 
-| Tables | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+From top to bottom from 1 to 8 and from left to right from 'a' to 'b'
