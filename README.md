@@ -20,14 +20,12 @@ If you are working in Windows you have to define the enviroment variables to map
 ## 🎨 OPTIONS
 
 The chess board is displayed like follows:
- | a | b | c | d | e | f | g | h
- --- | --- | --- | --- 
-1| | | | | | | | 
-2| | | | | | | | 
-3| | | | | | | | 
-4| | | | | | | | 
-5| | | | | | | | 
-6| | | | | | | | 
-7| | | | | | | | 
-8| | | | | | | | 
-
+   | a | b | c | d | e | f | g | h 
+ 1 |   |   |   |   |   |   |   |   
+ 2 |   |   |   |   |   |   |   |   
+ 3 |   |   |   |   |   |   |   |   
+ 4 |   |   |   |   |   |   |   |   
+ 5 |   |   |   |   |   |   |   |   
+ 6 |   |   |   |   |   |   |   |   
+ 7 |   |   |   |   |   |   |   |   
+ 8 |   |   |   |   |   |   |   |   
