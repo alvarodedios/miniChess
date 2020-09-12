@@ -21,4 +21,5 @@ If you are working in Windows you have to define the enviroment variables to map
 
 The chess board is displayed like follows:
 
-From top to bottom from 1 to 8 and from left to right from 'a' to 'b'
+- From top to bottom from 1 to 8
+- From left to right from 'a' to 'b'
