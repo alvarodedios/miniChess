@@ -26,7 +26,7 @@ The chess board is displayed like follows:
 
 Each move has to have the following format:
 
-``bash
+```bash
 #Example:
 a4c7
 ```
