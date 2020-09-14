@@ -36,3 +36,5 @@ There is two ways to end a game:
 
 - Checkemate
 - Each chess piece have a certain amount of points assigned. You have the option of ending the game after each turn. The color with higher amount of points wins.
+
+gg!
