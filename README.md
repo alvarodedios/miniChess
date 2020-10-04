@@ -10,8 +10,8 @@
 
 Download the source code, compile it and run it. In order for it to work you must have previously installed JDK:
 ``` bash
-javac *.java #basic functionalities
-java Main #advance features such as texture handling and more!
+javac *.java #compile the program
+java Main    #run the program
 ``` 
 If you are working in Windows you have to define the enviroment variables to map the java.exe and javac.exe directory.
 
