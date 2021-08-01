@@ -30,7 +30,7 @@ Each move has to have the following format:
 #Example:
 a4c7
 ```
-The game will tell you if your move was valid based on the piece you want to move, the square you are in and your position in relation to to your oponent.
+The game will tell you if your move was valid based on the piece you want to move, the square you are in and your position in relation to to your oponent's.
 
 There is two ways to end a game:
 
